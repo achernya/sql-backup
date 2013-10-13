@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env pagsh
 
 # We can't do an AFS backup unless
 #  a) we're under the lock
